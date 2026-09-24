@@ -1,9 +1,5 @@
 <div align="center">
-| Pipeline Metric | Value |
-|---|---|
-| **Total Run Time** | ⚡ **< 7 Hours** (Complete End-to-End Run) |
-| **Training Steps** | 500 Steps (~0.8 Epochs) |
-| **Throughput** | ~24.6s / Step |
+
 > [!NOTE]
 > ⚡ **Ultra-Efficient Execution:** The complete end-to-end pipeline — streaming, quality filtering, 2× T4 DDP training, benchmark evaluation, and fp16 model merging — finishes in **under 7 hours** on Kaggle's free tier!
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Fine-tuning+Qwen3-8B+on+2x+Tesla+T4;QLoRA+%2B+SFT+%2B+DDP+via+torchrun;Trained%2C+Evaluated%2C+Published+%F0%9F%9A%80" alt="Typing SVG" />
