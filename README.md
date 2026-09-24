@@ -1,5 +1,5 @@
 <div align="center">
-
+NOt this note bokk run  under 7hrs 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Qwen3-8B%20Coding%20Fine-tune&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=QLoRA%20%2B%20OpenCodeInstruct%20%2B%20Kaggle%20T4x2&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Fine-tuning+Qwen3-8B+on+2x+Tesla+T4;QLoRA+%2B+SFT+%2B+DDP+via+torchrun;Trained%2C+Evaluated%2C+Published+%F0%9F%9A%80" alt="Typing SVG" />
